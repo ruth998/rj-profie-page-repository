@@ -9,4 +9,4 @@ The website introduces who I am, shows my skills, and displays my projects
 - At least two project articles
 - Simple and clean design
 
-![Screenshot](Screenshot2026-02-20164909.png)
+![Screenshot]([Screenshot2026-02-20164909.png](https://github.com/ruth998/rj-profie-page-repository/blob/main/Screenshot%202026-02-20%20164909.png))
