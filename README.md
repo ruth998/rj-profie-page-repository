@@ -9,4 +9,4 @@ The website introduces who I am, shows my skills, and displays my projects
 - At least two project articles
 - Simple and clean design
 
-![screenshort](Screenshot 2026-02-20 164909)
+![screenshort](Screenshot 2026-02-20 164909.png)
